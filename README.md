@@ -5,7 +5,11 @@
 ## ✍️ Codex 源码学习专栏
 
 从源码出发拆解 Codex 的设计与实现，第二篇起在此同步分享。
-配套代码与实验汇总在 [source-code-learning](https://github.com/NewComerC/source-code-learning)（目前：NumPy 手写 Attention Score，后续按编号推进）。
+
+配套代码：
+- 《Rust 基础一》示例（macOS）：[codex-rust-learning-macos](https://github.com/NewComerC/codex-rust-learning-macos) · [Release v0.1.0](https://github.com/NewComerC/codex-rust-learning-macos/releases/tag/v0.1.0)
+- 《Rust 基础一》示例（Windows）：[codex-rust-learning-windows](https://github.com/NewComerC/codex-rust-learning-windows) · [Release v0.1.0](https://github.com/NewComerC/codex-rust-learning-windows/releases/tag/v0.1.0)
+- 更早实验汇总：[source-code-learning](https://github.com/NewComerC/source-code-learning)（含 NumPy 手写 Attention Score）
 
 ## 🔭 当前方向
 
